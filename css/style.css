@@ -2,6 +2,10 @@ body {
 	background-color: #fff !important;
 }
 
+header{
+	overflow: auto;
+}
+
 .jade-social .row {
 	margin-bottom: 30px; 
 }
@@ -10,7 +14,7 @@ body {
 	background-color: #044E95;
 	color: #fff;
 	padding: 0px 50px; 
-	height: 100px;
+	min-height: 100px;
 }
 
 #logo img {
