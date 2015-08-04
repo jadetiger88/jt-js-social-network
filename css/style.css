@@ -72,6 +72,26 @@ header{
 	color: #29527C;
 }
 
+.member {
+	padding-top: 20px;
+	padding-bottom: 10px;
+	border-bottom: 1px solid #888; 
+}
+
+.member .btn {
+	width: 100%;
+	margin-top: 10px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.member img {
+	margin: 0 auto;
+	width: 100%;
+	padding: 3px;
+	border: 1px solid #888;
+}
+
 footer {
 	line-height: 50px;
 	text-align: center;
