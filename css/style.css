@@ -1,0 +1,78 @@
+body {
+	background-color: #fff !important;
+}
+
+.jade-social .row {
+	margin-bottom: 30px; 
+}
+
+#logo {
+	background-color: #044E95;
+	color: #fff;
+	padding: 0px 50px; 
+	height: 100px;
+}
+
+#logo img {
+	float: left;
+	margin-top: 28px;
+}
+
+#logo .form-inline {
+	margin-top: 30px;
+	float: right;
+}
+
+.navbar {
+	background-color: #F8F8F8;
+}
+.navbar a {
+	color: #555;
+}
+
+.main-row .panel-heading {
+	background-color: #044E95;
+	color: #fff; 
+}
+
+.col-wall .media {
+	padding: 15px;
+	border: 1px solid #eee; 
+	border-radius: 5px;
+}
+
+.col-friends .media {
+	padding: 15px;
+	border-bottom: 1px solid #eee; 
+}
+
+.media-left img {
+	width: 64px;
+}
+
+.media-body p {
+	min-height: 64px;
+}
+
+.panel-friends img {
+	width: 30%;
+}
+
+.panel-friends .btn, 
+.panel-groups .btn {
+	margin-top: 20px;
+	background-color: #337AB7; 
+	color: #fff;
+}
+.panel-groups .media-heading {
+	color: #29527C;
+}
+
+footer {
+	line-height: 50px;
+	text-align: center;
+	color: #fff;
+	background-color: #044E95; 
+}
+
+
