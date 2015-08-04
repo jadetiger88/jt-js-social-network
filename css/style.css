@@ -72,7 +72,8 @@ header{
 	color: #29527C;
 }
 
-.member {
+.member, 
+.group {
 	padding-top: 20px;
 	padding-bottom: 10px;
 	border-bottom: 1px solid #888; 
