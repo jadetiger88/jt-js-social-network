@@ -102,6 +102,9 @@ header{
 .profile img {
 	width: 90%;
 }
+.profile ul {
+	margin-top: 20px;
+}
 
 .profile li {
 	list-style: none;
