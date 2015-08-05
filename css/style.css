@@ -88,17 +88,17 @@ header{
 
 .member img {
 	margin: 0 auto;
-	width: 100%;
+	width: 90%;
 	padding: 3px;
 	border: 1px solid #DDDDDD;
 }
 
-.profile h1,
+/*.profile h1,
 .gallery h1  {
 	margin: 0 15px 20px 15px; 
 	border-bottom: 1px solid #DDDDDD;
 }
-
+*/
 .profile img {
 	width: 90%;
 }
@@ -109,7 +109,7 @@ header{
 }
 
 .gallery-row img {
-	width: 100%;
+	width: 90%;
 	margin: 0 auto;
 	border: 3px solid #DDD;
 }
